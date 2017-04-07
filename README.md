@@ -3,7 +3,15 @@ My electron coded apps
 
 ## Introduction
 
-Electron, allows one to create cross platform apps using: HTML/CSS/Javascript.
+Electron, allows one to create cross platform apps using: HTML/CSS/Javascript.  
+
+## How to start
+
+In order to create a very simple Electron app.; then, you will need to write 3 files...  
+
+- package.json  (lists package info./plus, dependencies)
+- main.js       (creates a main window)
+- renderer.js   (renders to the main window)
 
 ## Links
 
