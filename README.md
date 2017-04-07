@@ -21,6 +21,7 @@ In order to create a very simple Electron app.; then, you will need to include 3
 
 ### Resources
 
+### Example code
 https://www.github.com/electron/electron-quick-start  
 
 ### Video Tutorials
