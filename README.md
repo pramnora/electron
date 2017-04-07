@@ -7,7 +7,9 @@ Electron, allows one to create cross platform apps using: HTML/CSS/Javascript.
 
 ## How to start
 
-In order to create a very simple Electron app.; then, you will need to write 3 files...  
+To begin with you should already have NodeJS installed on your system.
+
+In order to create a very simple Electron app.; then, you will need to include 3 files...  
 
 - package.json  (lists package info./plus, dependencies)
 - main.js       (creates a main window)
